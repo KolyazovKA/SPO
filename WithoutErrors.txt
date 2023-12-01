@@ -1,0 +1,3 @@
+x := 2F;{hbhb}
+y := 3D;  {hbhb}
+a := x + y;{fjfjfjj} b := y - x; z := a * b / (x + a);
