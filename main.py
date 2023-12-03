@@ -32,10 +32,10 @@ def tokenize(input_text):
     return tokens
 
 # Пример использования:
-input_text = """x := 2F;
-y := 3D; a := x + y;
-b := y - x;
-z := a * b / (x + a);"""
+input_text = """x := 2F;{hbhb}
+y := 3D;  {hbhb}
+a := x + y;{fjfjfjj} b := y - x; z := a * b / (x + a);
+a := BAC * ((z + y) / 123F);{fjfjfjj} b := z - x;"""
 tokens = tokenize(input_text)
 
 # Создание объекта PrettyTable

@@ -1,0 +1,4 @@
+x := 2F;{hbhb
+y := 3D;  {hbhb}
+a := x + y;{fjfjfjj} 883b := y - x; z := a * b / (x + a);
+a := BAC * ((z + y) / 123F);{fjfjfjj} b := z - x;
